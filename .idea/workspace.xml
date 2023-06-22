@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/C04_JUnitTestNotasyonu.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RPmWyka774KV17PokQwW1txYp0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.C01_IFrame.test01">
+    <configuration name="C01_IFrame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C01_IFrame" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_IFrame.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C01_IFrame" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C05_Actions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C06_Actions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Actions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C06_Actions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C01_IFrame.test01" />
+        <item itemvalue="JUnit.C01_IFrame" />
+        <item itemvalue="JUnit.C06_Actions" />
+        <item itemvalue="JUnit.C06_Actions.test01" />
+        <item itemvalue="JUnit.C05_Actions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="" />
+      <created>1687160130969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687160130969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C04_CheckBox.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
