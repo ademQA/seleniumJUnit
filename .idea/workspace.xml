@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="" />
+    <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,100 +46,101 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.C01_IFrame.test01">
-    <configuration name="C01_IFrame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="JUnit.P08.test01">
+    <configuration name="P05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C01_IFrame" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_IFrame.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C01_IFrame" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.P05" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C05_Actions" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.P06" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P06.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C06_Actions" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_Actions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C06_Actions" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.P06" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.P08" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
+      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q03" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_IFrame.test01" />
-        <item itemvalue="JUnit.C01_IFrame" />
-        <item itemvalue="JUnit.C06_Actions" />
-        <item itemvalue="JUnit.C06_Actions.test01" />
-        <item itemvalue="JUnit.C05_Actions" />
+        <item itemvalue="JUnit.P08.test01" />
+        <item itemvalue="JUnit.P06" />
+        <item itemvalue="JUnit.P06.test01" />
+        <item itemvalue="JUnit.P05.test01" />
+        <item itemvalue="JUnit.Q03" />
       </list>
     </recent_temporary>
   </component>
