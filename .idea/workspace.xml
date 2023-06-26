@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/P05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q02_Odev2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q02_Odev2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/C05_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/C05_Actions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/P06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/C05_Actions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/C05_Actions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/P06.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,92 +74,89 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.P05.test01">
-    <configuration name="P03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q06">
+    <configuration name="C05_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.P03" />
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.C05_Actions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.P04" />
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.P05" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.P04" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.P06" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.P04" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
+      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q06" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.P05" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
+      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q07" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.P05.test01" />
-        <item itemvalue="JUnit.P04" />
-        <item itemvalue="JUnit.P04.test03" />
-        <item itemvalue="JUnit.P04.test01" />
-        <item itemvalue="JUnit.P03" />
+        <item itemvalue="JUnit.Q06" />
+        <item itemvalue="JUnit.Q07" />
+        <item itemvalue="JUnit.P06" />
+        <item itemvalue="JUnit.C05_Actions" />
+        <item itemvalue="JUnit.P05" />
       </list>
     </recent_temporary>
   </component>

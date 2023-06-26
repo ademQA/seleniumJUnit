@@ -4,9 +4,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.devtools.v111.target.model.AttachedToTarget;
+
 import java.time.Duration;
-public class Q5 {
+public class Q05 {
     //1. Yeni bir class olusturun (TekrarTesti)
     //2. Youtube web sayfasına gidin ve sayfa başlığının “youtube” olup olmadığını
     //doğrulayın (verify), eğer değilse doğru başlığı(Actual Title) konsolda yazdirin.
