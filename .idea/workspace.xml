@@ -5,40 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C01_Actions_moveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C02_KeybordbaseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C03_KeybordBaseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C04_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C05_FileExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C06_FileExistsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/C07_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q02_Odev2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q02_Odev2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q03_Odev3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JunitFrameWork/Q03_Odev3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day08_iFrame_windows_actionsClass/Q07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practice/P07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/practice/P08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JunitFrameWork/Q02_Odev2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JunitFrameWork/Q02_Odev2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JunitFrameWork/Q03_Odev3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JunitFrameWork/Q03_Odev3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/Q01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/Q02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/Q02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_iFrame_windows_actionsClass/Q07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/practice/P07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/practice/P07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/practice/P08.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,90 +68,91 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Q04.test01">
-    <configuration name="Q04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q02.test01">
+    <configuration name="P04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.day09_Actions_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.Q04" />
+      <option name="PACKAGE_NAME" value="tests.day09_Actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09_Actions_fileTestleri.P04" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.day09_Actions_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.Q04" />
+      <option name="PACKAGE_NAME" value="tests.day09_Actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09_Actions_fileTestleri.P05" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day09_Actions_fileTestleri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day09_Actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09_Actions_fileTestleri.Q01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.day09_Actions_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.Q05" />
+      <option name="PACKAGE_NAME" value="tests.day09_Actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09_Actions_fileTestleri.Q02" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
+          <option name="PATTERN" value="tests.day09_Actions_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.Q06" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day08_iFrame_windows_actionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day08_iFrame_windows_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08_iFrame_windows_actionsClass.Q07" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="tests.day09_Actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="tests.day09_Actions_fileTestleri.Q02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Q04.test01" />
-        <item itemvalue="JUnit.Q04" />
-        <item itemvalue="JUnit.Q05" />
-        <item itemvalue="JUnit.Q07" />
-        <item itemvalue="JUnit.Q06" />
+        <item itemvalue="JUnit.Q02.test01" />
+        <item itemvalue="JUnit.Q02" />
+        <item itemvalue="JUnit.P05" />
+        <item itemvalue="JUnit.P04" />
+        <item itemvalue="JUnit.Q01.test01" />
       </list>
     </recent_temporary>
   </component>
