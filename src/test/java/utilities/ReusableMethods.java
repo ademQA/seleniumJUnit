@@ -1,5 +1,6 @@
 package utilities;
 
+import com.github.javafaker.Faker;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 
@@ -40,7 +41,9 @@ public class ReusableMethods {
         // dosya adini dinamik hale getirmek icin time stamp kullanalim
         LocalDateTime ldt = LocalDateTime.now(); // 2023-07-06T09:16:39.121372
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("YYMMddhhmm");
-        String dinamikDosyaYolu = "target/Screenshots/TumSayfa"+ldt.format(dtf)+".png";
+       String dinamikDosyaYolu = "target/Screenshots/TumSayfa"+ldt.format(dtf)+".png";
+        //Faker faker=new Faker();
+        //String dinamikDosyaYolu="target/Screenshot/TumSayfa/"+faker.name().firstName()+".png";
         File tumSayfaFoto = new File(dinamikDosyaYolu);
         File geciciDosya = tss.getScreenshotAs(OutputType.FILE);
         try {

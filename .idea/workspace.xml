@@ -5,36 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C01_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C02_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C03_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C04_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/P01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/P02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/P03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/P04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C01_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C02_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C03_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C04_GetScreenshotTumSayfa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/P01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/P02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/P03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/P04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C01_ReusableMethodsTumSayfaSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C03_jsExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/PO4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P06.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +74,8 @@
       <recent name="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C02_WebElementScreenshot.test01">
-    <configuration name="C01_ReusableMethodsTumSayfaSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P03.test01">
+    <configuration name="C03_jsExecutor.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -99,13 +84,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.C01_ReusableMethodsTumSayfaSS" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.C03_jsExecutor" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_ReusableMethodsTumSayfaSS.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -114,14 +100,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.C01_ReusableMethodsTumSayfaSS" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WebElementScreenshot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -130,39 +116,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.C02_WebElementScreenshot" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P02" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_GetScreenshotTumSayfa.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day11_exelOtomasyonu.*" />
+          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11_exelOtomasyonu" />
-      <option name="MAIN_CLASS_NAME" value="tests.day11_exelOtomasyonu.C04_GetScreenshotTumSayfa" />
+      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P03" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PO4.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day11_exelOtomasyonu.*" />
+          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day11_exelOtomasyonu" />
-      <option name="MAIN_CLASS_NAME" value="tests.day11_exelOtomasyonu.P04" />
+      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.PO4" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -171,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C02_WebElementScreenshot.test01" />
-        <item itemvalue="JUnit.C01_ReusableMethodsTumSayfaSS" />
-        <item itemvalue="JUnit.C01_ReusableMethodsTumSayfaSS.test01" />
-        <item itemvalue="JUnit.P04.test01" />
-        <item itemvalue="JUnit.C04_GetScreenshotTumSayfa.test01" />
+        <item itemvalue="JUnit.P03.test01" />
+        <item itemvalue="JUnit.PO4.test01" />
+        <item itemvalue="JUnit.C03_jsExecutor.test01" />
+        <item itemvalue="JUnit.P02.test01" />
+        <item itemvalue="JUnit.P01.test01" />
       </list>
     </recent_temporary>
   </component>
