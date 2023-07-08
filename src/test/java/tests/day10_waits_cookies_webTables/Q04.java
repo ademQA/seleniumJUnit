@@ -1,12 +1,12 @@
-package tests.day12_screenshot_jsExecutor;
+package tests.day10_waits_cookies_webTables;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class PO4 extends TestBase {
+public class Q04 extends TestBase {
+
     @Test
     public void test01() {
 
@@ -28,7 +28,6 @@ public class PO4 extends TestBase {
         bekle(3);
         driver.switchTo().activeElement().sendKeys("phone 14");
         driver.findElement(By.xpath("//div[@class='searchBoxOld-yDJzsIfi_S5gVgoapx6f']")).click();
-
 
 
         //5. Sonuçların görüntülendiğini kontrol edin.
@@ -60,7 +59,6 @@ public class PO4 extends TestBase {
 
         //18. "*Sepetin şu an boş*." ibaresinin göründüğünü kontrol edin.
 
+
     }
 }
-
-

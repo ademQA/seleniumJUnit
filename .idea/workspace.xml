@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/PO4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/sinifListesi.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day09_Actions_fileTestleri/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/P03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_Actions_fileTestleri/Q01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/P06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,58 +61,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi" />
       <recent name="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.P03.test01">
-    <configuration name="C03_jsExecutor.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.C03_jsExecutor" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P02" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Q10.ReadWrite">
     <configuration name="P03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
@@ -155,13 +98,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day07_testBase_dropdown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day07_testBase_dropdown" />
+      <option name="MAIN_CLASS_NAME" value="tests.day07_testBase_dropdown.Q01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10.ReadWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
+      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q10" />
+      <option name="METHOD_NAME" value="ReadWrite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
+      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q11" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q10.ReadWrite" />
+        <item itemvalue="JUnit.Q01.test01" />
+        <item itemvalue="JUnit.Q11.test01" />
         <item itemvalue="JUnit.P03.test01" />
         <item itemvalue="JUnit.PO4.test01" />
-        <item itemvalue="JUnit.C03_jsExecutor.test01" />
-        <item itemvalue="JUnit.P02.test01" />
-        <item itemvalue="JUnit.P01.test01" />
       </list>
     </recent_temporary>
   </component>
