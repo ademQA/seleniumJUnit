@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/sinifListesi.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/Q01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/sinifListesi.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/sinifListesi.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/Q03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day12_screenshot_jsExecutor/PO4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,33 +68,17 @@
       <recent name="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q10.ReadWrite">
-    <configuration name="P03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q03.test01">
+    <configuration name="Q01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
+          <option name="PATTERN" value="tests.day10_waits_cookies_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.P03" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PO4.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day12_screenshot_jsExecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day12_screenshot_jsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="tests.day12_screenshot_jsExecutor.PO4" />
+      <option name="PACKAGE_NAME" value="tests.day10_waits_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10_waits_cookies_webTables.Q01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -114,6 +101,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day10_waits_cookies_webTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day10_waits_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10_waits_cookies_webTables.Q02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day10_waits_cookies_webTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day10_waits_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="tests.day10_waits_cookies_webTables.Q03" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q10.ReadWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
@@ -130,29 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
-      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q11" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Q03.test01" />
+        <item itemvalue="JUnit.Q02.test01" />
+        <item itemvalue="JUnit.Q01.test01 (1)" />
         <item itemvalue="JUnit.Q10.ReadWrite" />
         <item itemvalue="JUnit.Q01.test01" />
-        <item itemvalue="JUnit.Q11.test01" />
-        <item itemvalue="JUnit.P03.test01" />
-        <item itemvalue="JUnit.PO4.test01" />
       </list>
     </recent_temporary>
   </component>
