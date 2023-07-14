@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecf297a-062c-478c-b17f-d91cd46f2441" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Grup_BodyCalismasi/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/P09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2RPmWyka774KV17PokQwW1txYp0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,7 +64,23 @@
       <recent name="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Q11.test01">
+  <component name="RunManager" selected="JUnit.P09.test01">
+    <configuration name="P09.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.P09" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
@@ -110,22 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10.ReadWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="team116_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.Grup_BodyCalismasi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.Grup_BodyCalismasi" />
-      <option name="MAIN_CLASS_NAME" value="tests.Grup_BodyCalismasi.Q10" />
-      <option name="METHOD_NAME" value="ReadWrite" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q11.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="team116_JUnit" />
       <extension name="coverage">
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.P09.test01" />
         <item itemvalue="JUnit.Q11.test01" />
         <item itemvalue="JUnit.Q03.test01" />
         <item itemvalue="JUnit.Q02.test01" />
         <item itemvalue="JUnit.Q01.test01 (1)" />
-        <item itemvalue="JUnit.Q10.ReadWrite" />
       </list>
     </recent_temporary>
   </component>
